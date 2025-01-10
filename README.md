@@ -8,13 +8,13 @@ This repository showcases my GATE 2024 performance in the **Computer Science and
 - **Registration Number:** CS24S58401019  
 - **All India Rank (AIR):** 3334  
 - **GATE Score:** 563  
-- **Normalized Marks:** 24.8 / 100  
+- **Normalized Marks:** 47.11 / 100  
 - **Percentile:** 97.31  
 - **Total Candidates Appeared:** 1,23,967  
 
 ## 📅 Examination Details
 - **Exam Date:** February 10, 2024  
-- **Organizing Institute:** [Add Institute Name if known]  
+- **Organizing Institute:** Indian Institute of Science, Bengaluru
 
 ## 📂 Repository Contents
 - **📜 `GATE_2024_SCORECARD.pdf`:** Official GATE 2024 scorecard.  
