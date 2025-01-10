@@ -17,7 +17,7 @@ This repository showcases my GATE 2024 performance in the **Computer Science and
 - **Organizing Institute:** [Add Institute Name if known]  
 
 ## 📂 Repository Contents
-- **📜 `DOC-20240325-WA0009.pdf`:** Official GATE 2024 scorecard.  
+- **📜 `GATE_2024_SCORECARD.pdf`:** Official GATE 2024 scorecard.  
 - **📝 `README.md`:** This file, summarizing my GATE performance.  
 
 ## 🎯 Purpose
